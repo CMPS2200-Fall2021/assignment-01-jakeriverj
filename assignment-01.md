@@ -89,7 +89,7 @@ $$
 
   - 2b. What does this function do, in your own words?  
 
-.  
+.  Foo returns the nth value of the Fibonacci sequence, with n = x.
 .  
 .  
 .  
@@ -118,8 +118,8 @@ E.g., `longest_run([2,12,12,8,12,12,12,0,12,1], 12) == 3`
 
   - 3b. What is the Work and Span of this implementation?  
 
-.  
-.  
+.  Work = O(n)
+.  Span = O(n)
 .  
 .  
 .  
